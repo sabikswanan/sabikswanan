@@ -286,7 +286,9 @@ gitGraph
 
 <img src="https://streak-stats.demolab.com?user=sabikswanan&hide_border=true&background=0A1A3F&ring=60A5FA&fire=A5D8FF&currStreakLabel=A5D8FF&sideLabels=CBD5E1&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=94A3B8&stroke=1E3A8A" alt="GitHub streak" width="70%"/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=sabikswanan&bg_color=0A1A3F&color=A5D8FF&line=60A5FA&point=FFFFFF&area=true&area_color=2563EB&title_color=A5D8FF&hide_border=true" alt="Contribution graph" width="100%"/>
+<img src="https://ghchart.rshah.org/2563EB/sabikswanan" alt="Contribution calendar" width="100%"/>
+
+<sub>Contribution calendar · darker blue = more commits</sub>
 
 </div>
 
