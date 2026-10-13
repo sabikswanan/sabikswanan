@@ -1,8 +1,8 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=venom&color=0:0A1A3F,50:1E3A8A,100:60A5FA&height=300&section=header&text=SABIK%20SWANAN&fontSize=72&fontColor=A5D8FF&fontAlignY=42&animation=twinkling&desc=Machine%20Learning%20%E2%80%A2%20Data%20Science%20%E2%80%A2%20Software%20Engineering&descSize=20&descAlignY=62&descAlign=50" alt="Sabik Swanan" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=venom&color=0:0A1A3F,50:1E3A8A,100:60A5FA&height=300&section=header&text=SABIK%20SWANAN&fontSize=72&fontAlignY=42&animation=twinkling&desc=Machine%20Learning%20%E2%80%A2%20Data%20Science%20%E2%80%A2%20Software%20Engineering&descSize=20&descAlignY=62&descAlign=50&fontColor=A5D8FF&stroke=0A1A3F&strokeWidth=2" alt="Sabik Swanan" width="100%"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=2600&pause=1000&color=A5D8FF&center=true&vCenter=true&width=900&height=60&lines=Turning+data+into+decisions;Teaching+machines+to+read+satellites;Shipping+web+apps%2C+games+and+networks;Open+to+internships+and+entry-level+roles" alt="Turning data into decisions"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=2600&pause=1000&color=3B82F6&center=true&vCenter=true&width=900&height=60&lines=Turning+data+into+decisions;Teaching+machines+to+read+satellites;Shipping+web+apps%2C+games+and+networks;Open+to+internships+and+entry-level+roles" alt="Turning data into decisions"/>
 
 <h3>Hi there <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" width="30" alt=""/> &nbsp;I build ML models, web apps and everything in between.</h3>
 
@@ -51,7 +51,7 @@ answers and ideas into software people can use.
 </td>
 <td width="45%" valign="top" align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=15&duration=1600&pause=500&color=60A5FA&multiline=true&width=440&height=230&lines=%24+whoami;%E2%86%92+sabik+%C2%B7+CS+undergrad+%40+BRACU;%24+cat+focus.txt;%E2%86%92+ML+%C2%B7+remote+sensing+%C2%B7+web;%24+git+status;%E2%86%92+thesis%3A+erosion+prediction;%24+echo+%24GOAL;%E2%86%92+build+things+that+matter" alt="Terminal: whoami, focus, status and goal"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=15&duration=1600&pause=500&color=3B82F6&multiline=true&width=440&height=230&lines=%24+whoami;%E2%86%92+sabik+%C2%B7+CS+undergrad+%40+BRACU;%24+cat+focus.txt;%E2%86%92+ML+%C2%B7+remote+sensing+%C2%B7+web;%24+git+status;%E2%86%92+thesis%3A+erosion+prediction;%24+echo+%24GOAL;%E2%86%92+build+things+that+matter" alt="Terminal: whoami, focus, status and goal"/>
 
 </td>
 </tr>
@@ -304,7 +304,7 @@ gitGraph
 
 <br/><br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=16&duration=3000&pause=1200&color=60A5FA&center=true&vCenter=true&width=600&lines=Open+to+internships+and+entry-level+roles;Thanks+for+stopping+by+%E2%9C%A8" alt="Open to internships and entry-level roles"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=16&duration=3000&pause=1200&color=3B82F6&center=true&vCenter=true&width=600&lines=Open+to+internships+and+entry-level+roles;Thanks+for+stopping+by+%E2%9C%A8" alt="Open to internships and entry-level roles"/>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:60A5FA,50:1E3A8A,100:0A1A3F&height=140&section=footer" alt="" width="100%"/>
 
